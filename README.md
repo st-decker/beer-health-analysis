@@ -26,9 +26,9 @@ NSS capstone project analyzing how the number of breweries and nationwide health
 
 ## Notebooks:
 
-- beer-analysis: mapping of breweries across the Us
-- beer-import: Code to bring in information from BreweryDB
-- dry-wet: can be ignored. Primary idea for mapping which counties are dry and wet across the us
-- health-analysis: code to clean county health info
+- beer_analysis: mapping of breweries across the Us
+- beer_import: Code to bring in information from BreweryDB
+- dry_wet: can be ignored. Primary idea for mapping which counties are dry and wet across the us
+- health_analysis: code to clean county health info
 - merging: most of the analysis resides here. It both merges and goes through the analysis
 
